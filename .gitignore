@@ -11,6 +11,7 @@ bot_cron.log
 
 # Ekran görüntüleri (kişisel test verisi içerir)
 screenshots/
+!config/screenshots/
 
 # Kişisel/çalışma zamanı yapılandırması (makineye özel yol içerir)
 config/bot_config.json

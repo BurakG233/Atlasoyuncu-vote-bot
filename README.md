@@ -72,11 +72,11 @@ baslatma\windows\baslat.cmd   (çift tık)
 
 ## 🖼️ Ekran Görüntüleri
 
-Botun oy verme sırasında aldığı örnek ekran görüntüleri:
+Botun oy verme sırasında aldığı örnekler (`config/screenshots/` klasöründe saklanır):
 
 | | |
 |---|---|
-| ![Oy](screenshots/minecraft-mp_20260902_152417.png) | ![Oy](screenshots/minecraft-mp_20260902_154601.png) |
+| ![Vote 1](config/screenshots/vote1.png) | ![Vote 2](config/screenshots/vote2.png) |
 
 ---
 
