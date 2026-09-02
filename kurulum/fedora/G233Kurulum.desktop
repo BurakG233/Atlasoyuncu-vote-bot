@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Atlasoyuncu G233 Vote Kurulum
+Name[tr]=Atlasoyuncu G233 Vote Kurulum
+Comment=Fedora otomatik kurulumunu başlat
+Comment[tr]=Fedora otomatik kurulumunu başlat
+Exec=konsole --hold -e bash -c "cd /home/burakguney/Masaüstü/atlas_vote_bot_merged/kurulum/fedora && ./install.sh"
+Icon=system-software-install
+Terminal=false
+Categories=Game;Utility;Qt;
+StartupNotify=false

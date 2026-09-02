@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Atlasoyuncu G233 Vote Bot
+Name[tr]=Atlasoyuncu G233 Vote Bot
+Comment=Minecraft Vote Bot - oy verme botunu başlat
+Comment[tr]=Minecraft Vote Bot - oy verme botunu başlat
+Exec=konsole --hold -e bash "/home/burakguney/Masaüstü/atlas_vote_bot_merged/baslatma/linux/baslat.sh"
+Icon=utilities-terminal
+Terminal=false
+Categories=Game;Utility;Qt;
+StartupNotify=false

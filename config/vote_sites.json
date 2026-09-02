@@ -1,0 +1,33 @@
+{
+  "minecraft-mp": {
+    "name": "minecraft-mp",
+    "display_name": "Minecraft-MP.com",
+    "url": "https://minecraft-mp.com/server/319522/vote/",
+    "method": "seleniumbase",
+    "username_param": "username",
+    "active": true,
+    "added": "2026-08-08",
+    "username_input": "input[name='nickname']",
+    "checkbox_selectors": [
+      "input[name='accept']"
+    ],
+    "vote_selectors": [
+      "//button[contains(text(),'Vote')]"
+    ],
+    "gui_captcha": false
+  },
+  "topminecraftservers": {
+    "name": "topminecraftservers",
+    "display_name": "TopMinecraftServers.org",
+    "url": "https://topminecraftservers.org/vote/11861",
+    "method": "seleniumbase",
+    "username_param": null,
+    "username_input": [
+      "#username",
+      "input[name='mc_username']"
+    ],
+    "active": true,
+    "added": "2026-08-08",
+    "gui_captcha": true
+  }
+}

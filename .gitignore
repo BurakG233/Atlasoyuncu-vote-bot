@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Çalışma zamanı
+logs/
+*.log
+bot_output.log
+bot_error.log
+bot_cron.log
+
+# Ekran görüntüleri (kişisel test verisi içerir)
+screenshots/
+
+# Geçici / kilit dosyaları
+*.lock
+downloaded_files/
+crontab_backup.txt
+
+# Sistem
+.DS_Store
+Thumbs.db
