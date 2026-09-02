@@ -76,7 +76,7 @@ Botun oy verme sırasında aldığı örnekler (`config/screenshots/` klasörün
 
 | | |
 |---|---|
-| ![Vote 1](config/screenshots/vote1.png) | ![Vote 2](config/screenshots/vote2.png) |
+| ![Vote 1](config/screenshots/vote1.png?v=2) | ![Vote 2](config/screenshots/vote2.png) |
 
 ---
 
